@@ -1,0 +1,24 @@
+
+"counties": [
+  {
+    "name": "Hampshire",
+    "abbreviation": "Hamps",
+    "post_code": ["BH21", "BH26", "BH23"]
+  },
+  {
+    "name": "Yorkshire",
+    "abbreviation": "Yorks",
+    "post_code": ["DL21", "DL26", "DL23"]
+  },
+  {
+    "name": "Shropshire",
+    "abbreviation": "Shrops",
+    "post_code": ["SY21", "SY26", "SY23"]
+  },
+  {
+    "name": "Derbyshire",
+    "abbreviation": "Derbs",
+    "post_code": ["DY21", "DY26", "DY23"]
+  },
+
+]
